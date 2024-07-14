@@ -32,3 +32,13 @@ ab &= 5;
 
 let z = 10;
 z |= 5;
+
+//Logicall
+
+let num1= 10;
+num2&&= 5;
+console.log(num1)
+
+let or= 10;
+or ||= 5;
+console.log(or)
