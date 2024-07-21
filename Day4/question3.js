@@ -1,11 +1,5 @@
-let i,  sum = 0
-i = 1
-while (i<=10){
-  
-  if(i%2==0){
-    sum= sum + i
-  }
-
-  i++
+var input = 10;
+while (input >= 1) {
+ console.log(input);
+ input--;
 }
-console.log(sum)
