@@ -9,4 +9,13 @@ for(let i = 1; i <= 10; i++) {
 
     // display the result
     console.log(`${number} * ${i} = ${result}`);
+    
 }
+
+// let i = 1;
+// while (i < 10) {
+//   if(i < 5) {
+// console.log('The Number is ' + i );
+//   }
+//   i++;
+// }
