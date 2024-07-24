@@ -1,4 +1,4 @@
-// program to find the largest among three numbers
+//program to find the largest among three numbers-------
 
 
 const num1 = parseFloat(prompt("Enter first number: "));
